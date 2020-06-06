@@ -1,5 +1,5 @@
 {
-  "name": "spawn",
+  "name": "node-proc-spawn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
